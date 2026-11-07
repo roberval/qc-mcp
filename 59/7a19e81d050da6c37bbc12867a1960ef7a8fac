@@ -1,0 +1,16 @@
+src/qc_mcp/catalog.py
+  h_bd9062f99ea7d8 170-195,198-200,216-217
+tests/test_eq_raw_db.py
+  h_bd9062f99ea7d8 1-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "597a19e81d050da6c37bbc12867a1960ef7a8fac",
+  "prompts": {},
+  "humans": {
+    "h_bd9062f99ea7d8": {
+      "author": "Roberval Aratame Ribeiro <roberval@gmail.com>"
+    }
+  }
+}
