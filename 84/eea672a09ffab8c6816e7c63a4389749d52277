@@ -1,0 +1,14 @@
+PROTOCOL.md
+  h_bd9062f99ea7d8 183,185-189,195-196
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "84eea672a09ffab8c6816e7c63a4389749d52277",
+  "prompts": {},
+  "humans": {
+    "h_bd9062f99ea7d8": {
+      "author": "Roberval Aratame Ribeiro <roberval@gmail.com>"
+    }
+  }
+}
